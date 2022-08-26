@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 # pylint: disable=C0103,C0111
 
+#Version 1.0 Christian A. Chiramberro
+
 import argparse
 
 from snake.game import Game, GameConf, GameMode
